@@ -4,4 +4,11 @@
 
 **Dataset** [Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 
-**Dataset for choice or test** [Student Exam Data](https://www.kaggle.com/datasets/mrsimple07/student-exam-performance-prediction)
+**Machine Learning Algorithm** Support Vector Machine Algorithm (Soft Margin)
+
+**Performance**  
+$$accuracy = \frac{TP+TN}{TP+TN+FP+FN}$$
+$$sensitivity = \frac{TP}{TP+FP}$$
+$$specificity = \frac{TN}{TN+FP}$$
+
+**Model Selection** KFold
